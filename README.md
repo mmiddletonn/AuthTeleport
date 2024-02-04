@@ -1,4 +1,6 @@
-# installation
+# readme
+
+## installation
 run `mvn clean install` in the main dir
 final jar will be in the created `target` folder
 
