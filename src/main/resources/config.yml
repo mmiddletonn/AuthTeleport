@@ -1,0 +1,16 @@
+TeleportLocations:
+  AUTHENTICATED:
+    world: world
+    x: 100
+    y: 65
+    z: 100
+  UNAUTHENTICATED:
+    world: world
+    x: -100
+    y: 65
+    z: -100
+  UNREGISTERED:
+    world: world_nether
+    x: 0
+    y: 80
+    z: 0

@@ -1,0 +1,5 @@
+name: AuthTeleport
+version: 1.0
+main: com.mmiddletonn.AuthTeleport
+api-version: 1.13
+depend: [LoginSecurity]
